@@ -12,6 +12,12 @@ In this milestone, we are going to program Nucleo-64 STM32F411 development board
 ## Youtube Link
 //To be attached
 
+## Source Code
+### Blinky.c 
+Source code for the Blinky program, please check line 97 and 98. 
+
+
+
 
 
 
