@@ -10,7 +10,7 @@ In this milestone, we are going to program Nucleo-64 STM32F446/STM32F411 develop
 </p>
 
 ## Youtube Link
-//To be attached
+https://youtu.be/0yijfozhSew
 
 ## Source Code
 ### Blinky.c 
